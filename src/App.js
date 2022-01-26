@@ -1,5 +1,4 @@
 import YoutubeVideo from "./YoutubeVideo";
-import History from "./History";
 import { useEffect, useState, useRef } from "react";
 import './index.css';
 import youtubeicon from '../src/img/youtube.png';
